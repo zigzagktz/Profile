@@ -11,3 +11,6 @@ Implementing PCA on building's dataste and reducing it's dimensionility. One can
 
 ## [Lasso Regression](https://github.com/zigzagktz/Profile/tree/master/Lasso%20Regression)
 A detailed description of how lasso regression penalize those varibles that are adding noise to the model and only select valuable varibales to protect the model from over fitting. Here I have implemented lasso on diabetes dataset that has very high dimensionility. For more detailed introductory version, I have also written a blog. 
+
+## [Audit Analysis of FDA Regulated Industries](https://github.com/zigzagktz/Analysis-of-FDA-Regulated-Industry-Audits/blob/master/The%20full%20detailed%20report.pdf)
+The data was collected in order to catch the fradulent firms within USA and outside of USA. I have done deep analysis and have shown results using visulization in order to make it understandable to general audience. This analysis itself is not trageted towards any perticular firm but just bringing insights on the basis of which appropriate authorities can take action. 
