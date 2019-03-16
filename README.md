@@ -1,5 +1,7 @@
 # Profile
 
+## [Academic Project](https://github.com/zigzagktz/Predictive-Modeling-for-IMDb-Movies)
+As a project of data mining class, our me and my two other group-mates decided to explore the problem of how do people determine the success of movies. It can be in terms of high IMDb rating or in terms of high sales as well. Implementing data clearning, visulization, text-mining and classification, we have predicted both IMDB rating and sales along with comparision of results from different algorithme.  
 
 ## [Hypothesis Testing](https://github.com/zigzagktz/Profile/tree/master/Hypothesis%20Testings) 
 I have done showed practical implimentation of differen kind of hypothesis testing on different kind of data and scenario. There are three folder, each folder has a report describing all my findings and observation. It would be quite undertsnable and easy if the reader directly go through the report of each kind of test I have done. 
