@@ -21,6 +21,6 @@ Building Naive Bayes algorithm from scratch to classify negative and positive re
 ### [Audit Analysis of FDA Regulated Industries](https://github.com/zigzagktz/Analysis-of-FDA-Regulated-Industry-Audits/blob/master/The%20full%20detailed%20report.pdf)
 The data was collected in order to catch the fradulent firms within USA and outside of USA. I have done deep analysis and have shown results using visulization in order to make it understandable to general audience. This analysis itself is not trageted towards any perticular firm but just bringing insights on the basis of which appropriate authorities can take action.
 
-## [Unsupervised Learning](https://github.com/zigzagktz/Profile/blob/master/Hierarchical%20Clustering%20on%20TripAdvisor%20Review%20Data/clustering.pdf) 
-### Hierarchical Clustering 
+## Unsupervised Learning 
+### [Hierarchical Clustering](https://github.com/zigzagktz/Profile/blob/master/Hierarchical%20Clustering%20on%20TripAdvisor%20Review%20Data/clustering.pdf) 
 Using the tripadvisor review data I have done agglomerative hierarchical clustering analysis. After bulding clusters I have brought some interesting facts that are explained with details in the pdf file.
