@@ -18,6 +18,9 @@ A detailed description of how lasso regression penalize those varibles that are 
 ### [Creating Naive Bayes Algorithm from scratch](https://github.com/zigzagktz/Naive-Bayes-From-Scratch/blob/master/review.R)
 Building Naive Bayes algorithm from scratch to classify negative and positive reviews. The text will be broken in corpus and then using Bayse' theorem code will calculate conditional probability for each attribute and decide wheather the reviews is negative or positive.   
 
+###[Creating TF-IDF matrix function from scratch](https://github.com/zigzagktz/My-work/tree/master/Creating%20TF-IDF%20matrix%20function%20from%20scratch)
+I have created the logic to implement mathmatical computation that goes behind TF-IDF matrix formation. When we start working on text analysis project, we would need to do some preprocessing. TF-IDF matrix conversion from the corpus of words is also the part of preprocessing.
+
 ### [Audit Analysis of FDA Regulated Industries](https://github.com/zigzagktz/Analysis-of-FDA-Regulated-Industry-Audits/blob/master/The%20full%20detailed%20report.pdf)
 The data was collected in order to catch the fradulent firms within USA and outside of USA. I have done deep analysis and have shown results using visulization in order to make it understandable to general audience. This analysis itself is not trageted towards any perticular firm but just bringing insights on the basis of which appropriate authorities can take action.
 
