@@ -8,7 +8,6 @@ As a project of data mining class, our me and my two other group-mates decided t
 ### [Sentiment Analysis on Bhavad Gita](https://github.com/zigzagktz/My-work/tree/master/Bhagvad%20Gita%20Text-Analysis)
 Implementing sentiment analysis and other text-mining techniques on one of the biggest religious scripture of Hindu mythology. The pdf file present in the folder and graphs shown are pretty explanatory itself. A lot of refinement and objective clearance is required for this project and I am considering it for future work.
 
-Observation:
 1- Most of the words are positive, which proofs that it is a very uplifting scripture in comparison with other murderous mystery books that would have many negative words.  
 2- Also, the negative words that I have represented, most of them must be used with conjunction with positive implications. For example, "placed in heaven after death" here death is a negative word but have positive implication. One can use technique called "n-gram" for that to make meaningful insights.  
 3- The use of word "lord" is constantly declining from which I am hypothesizing that maybe early in the book Krishna is addressed as "Lord  or Lord Krishna" but towards the end it would have been just "Krishna"
