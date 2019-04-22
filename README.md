@@ -4,6 +4,15 @@
 ### [Sales and score Prediction for IMDb Movies](https://github.com/zigzagktz/Predictive-Modeling-for-IMDb-Movies)
 As a project of data mining class, our me and my two other group-mates decided to explore the problem of how do people determine the success of movies. It can be in terms of high IMDb rating or in terms of high sales as well. Implementing data clearning, visulization, text-mining and classification, we have predicted both IMDB rating and sales along with comparision of results from different algorithme.
 
+## Text Analysis
+### Sentiment Analysis on Bhavad Gita (https://github.com/zigzagktz/My-work/tree/master/Bhagvad%20Gita%20Text-Analysis)
+Implementing sentiment analysis and other text-mining techniques on one of the biggest religious scripture of Hindu mythology. The pdf file present in the folder and graphs shown are pretty explanatory itself. A lot of refinement and objective clearance is required for this project and I am considering it for future work.
+
+Observation:
+1- Most of the words are positive, which proofs that it is a very uplifting scripture in comparison with other murderous mystery books that would have many negative words.  
+2- Also, the negative words that I have represented, most of them must be used with conjunction with positive implications. For example, "placed in heaven after death" here death is a negative word but have positive implication. One can use technique called "n-gram" for that to make meaningful insights.  
+3- The use of word "lord" is constantly declining from which I am hypothesizing that maybe early in the book Krishna is addressed as "Lord  or Lord Krishna" but towards the end it would have been just "Krishna"
+
 ## Statistics
 ### [Hypothesis Testing](https://github.com/zigzagktz/Profile/tree/master/Hypothesis%20Testings) 
 I have done showed practical implimentation of differen kind of hypothesis testing on different kind of data and scenario. There are three folder, each folder has a report describing all my findings and observation. It would be quite undertsnable and easy if the reader directly go through the report of each kind of test I have done. 
