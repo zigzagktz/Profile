@@ -1,8 +1,11 @@
 # Profile
 
 ## Academic Project
+### [Utility Optimization Model For City of Boston]()
+Utilising the object-oriented concepts of Python programming language I have written down a python script that works as a package for data analysis of Boston utility dataset. The functions written in python script are called in juypter-notebook and then those function gives output that are explained in detail within the same notebook. The notebook is sufficient enough to undertsand the workflow and approach I have taken in order to bring out insights that can help government officials or GIS aspirants to take on from here and advance their own analysis. 
+
 ### [Sales and score Prediction for IMDb Movies](https://github.com/zigzagktz/Predictive-Modeling-for-IMDb-Movies)
-As a project of data mining class, our me and my two other group-mates decided to explore the problem of how do people determine the success of movies. It can be in terms of high IMDb rating or in terms of high sales as well. Implementing data clearning, visulization, text-mining and classification, we have predicted both IMDB rating and sales along with comparision of results from different algorithme.
+As a project of data mining class, me and my two other group-mates decided to explore the IMDB Movie data set with a problem statement that goes like this---- "How do people determine a successful movie as successful". In other words, it is important to undertsand if a movie with higher IMDb rating is successful, or a movie with higher gross sales is successful. With that aim in mind, we Implementing data clearning, visulization, text-mining and classification, we have predicted both IMDB rating and sales based on different parameters and juxtaposing results using different algorithms.
 
 ## Text Analysis
 ### [Sentiment Analysis on Bhavad Gita](https://github.com/zigzagktz/My-work/tree/master/Bhagvad%20Gita%20Text-Analysis)
