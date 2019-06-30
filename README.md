@@ -12,7 +12,7 @@ Implementing sentiment analysis and other text-mining techniques on one of the b
 2- Also, the negative words that I have represented, most of them must be used with conjunction with positive implications. For example, "placed in heaven after death" here death is a negative word but have positive implication. One can use technique called "n-gram" for that to make meaningful insights.  
 3- The use of word "lord" is constantly declining from which I am hypothesizing that maybe early in the book Krishna is addressed as "Lord  or Lord Krishna" but towards the end it would have been just "Krishna"
 
-### [Building Algorithm from scratch that creates TF-IDF Matrix of Text](https://github.com/zigzagktz/Profile/blob/master/Building%20TF-IDF%20matrix%20function%20from%20scratch/Code.R)
+### [Built Algorithm that can Generating TF-IDF Matrix of Documents](https://github.com/zigzagktz/Profile/blob/master/Building%20TF-IDF%20matrix%20function%20from%20scratch/Code.R)
 Developed logical functions using R programming language that calculates term frequency and inverse document frequency for the text documents passed on to those functions. TF-IDF matrix is one of the most crucial aspect while dealing with text-analysis because it helps weed out any unneccasory texts, gives weightage to important words and provides a dataframe with significanly less number of dimensions with comparision with original matrix, and all that while providing us with enrich information.  
 
 ## Statistics
