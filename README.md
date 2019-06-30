@@ -1,7 +1,7 @@
 # Profile
 
 ## Academic Project
-### [Utility Optimization Model For City of Boston]()
+### [Utility Optimization Model For City of Boston](https://github.com/zigzagktz/My-work/tree/master/Boston%20Utility%20Optimization%20Model)
 Utilising the object-oriented concepts of Python programming language I have written down a python script that works as a package for data analysis of Boston utility dataset. The functions written in python script are called in juypter-notebook and then those function gives output that are explained in detail within the same notebook. The notebook is sufficient enough to undertsand the workflow and approach I have taken in order to bring out insights that can help government officials or GIS aspirants to take on from here and advance their own analysis. 
 
 ### [Sales and score Prediction for IMDb Movies](https://github.com/zigzagktz/Predictive-Modeling-for-IMDb-Movies)
