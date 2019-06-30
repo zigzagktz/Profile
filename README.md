@@ -15,6 +15,9 @@ Implementing sentiment analysis and other text-mining techniques on one of the b
 ### [Built Algorithm that can Generating TF-IDF Matrix of Documents](https://github.com/zigzagktz/Profile/blob/master/Building%20TF-IDF%20matrix%20function%20from%20scratch/Code.R)
 Developed logical functions using R programming language that calculates term frequency and inverse document frequency for the text documents passed on to those functions. TF-IDF matrix is one of the most crucial aspect while dealing with text-analysis because it helps weed out any unneccasory texts, gives weightage to important words and provides a dataframe with significanly less number of dimensions with comparision with original matrix, and all that while providing us with enrich information.  
 
+### [Fake Article Classification Model](https://github.com/zigzagktz/My-work/tree/master/Fake%20Article%20Classification%20Model)
+Wrote a Machine Learning algorithm that trains on more than 1000 articles that are stored in seperate folder. The documents were extracted using web scrapping and are stored in .jason format. This model was able to classify fake articles with 78% accuracy which has the possibility for further improvement. Moreover, as future scope the algorithm has be made scalable so that it can classify hundreds or thousands of articles on the web. 
+
 ## Statistics
 ### [Hypothesis Testing](https://github.com/zigzagktz/Profile/tree/master/Hypothesis%20Testings) 
 I have done showed practical implimentation of differen kind of hypothesis testing on different kind of data and scenario. There are three folder, each folder has a report describing all my findings and observation. It would be quite undertsnable and easy if the reader directly go through the report of each kind of test I have done. 
