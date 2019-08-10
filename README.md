@@ -2,6 +2,9 @@
 
 ## Predictive Modeling
 
+### [Cancer Classification using Gene Expresession Database](https://github.com/zigzagktz/Cancer-Classification-using-Gene-Expression--SVM-and-NaiveBayes-)
+Implemented support vector machine and naive bayes algorithm to predict the class for type of cancer based on gene expression database collected by Golub et al "Molecular Classification of Cancer: Class Discovery and Class Prediction by Gene Expression Monitoring". To improve the computation time PCA for dimension reduction has been used and to improve the accuracy hypterparameter tuining was done. Results showed that liner kernel in SVM works best with 100% accurate results. 
+
 ### [Fake Article Classification Model](https://github.com/zigzagktz/My-work/tree/master/Fake%20Article%20Classification%20Model)
 Wrote a Machine Learning algorithm that trains on more than 1000 articles that are stored in seperate folder. The documents were extracted using web scrapping and are stored in .jason format. This model was able to classify fake articles with 78% accuracy which has the possibility for further improvement. Moreover, as future scope the algorithm has be made scalable so that it can classify hundreds or thousands of articles on the web.
 
