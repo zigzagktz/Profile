@@ -2,6 +2,9 @@
 
 ## Predictive Modeling
 
+### [Fraud Detection using Online Customer Transaction ](https://github.com/zigzagktz/Fraud-Detection-From-Customer-Transaction)
+Used scikit-learn library in Python to build fraud detection model on highly unbalanced class data of 1GB. Implement calsssical as well as ensembled methods and thoroughly measured different metric of performance. This study can help companies be more vigilant as they can set different parameter based on the companies requirement.
+
 ### [Cancer Classification using Gene Expresession Database](https://github.com/zigzagktz/Cancer-Classification-using-Gene-Expression--SVM-and-NaiveBayes-)
 Implemented support vector machine and naive bayes algorithm to predict the class for type of cancer based on gene expression database collected by Golub et al "Molecular Classification of Cancer: Class Discovery and Class Prediction by Gene Expression Monitoring". To improve the computation time PCA for dimension reduction has been used and to improve the accuracy hypterparameter tuining was done. Results showed that liner kernel in SVM works best with 100% accurate results. 
 [`Here is my Blog on Support Vector Machine`](https://towardsdatascience.com/support-vector-machine-support-vector-classifier-maximal-margin-classifier-22648a38ad9c)
