@@ -3,7 +3,7 @@
 ## Predictive Modeling
 
 ### [Quantitative Marketing Analysis](https://github.com/zigzagktz/Quantitative-Marketing-Analysis)
-Implemented data analytics best practices to drive valuable insights from operational data to drive best business strategies. 
+Implemented data analytics best practices to drive valuable insights from transactional data to drive best business strategies. 
 
 ### [Fraud Detection using Online Customer Transaction ](https://github.com/zigzagktz/Fraud-Detection-From-Customer-Transaction)
 Used scikit-learn library in Python to build fraud detection model on highly unbalanced class data of 1GB. Implement calsssical as well as ensembled methods and thoroughly measured different metric of performance. This study can help companies be more vigilant as they can set different parameter based on the companies requirement.
