@@ -2,7 +2,7 @@
 
 ## Extract Transform and Load (ETL)
 
-### [Small Data Warehouse for Wearable Device Data](https://github.com/zigzagktz/ETL-ExtractTransformLoad/tree/master/ETL%20on%20Wear%20Devices%20with%20(S3%20%2B%20postgres))  
+### [Pricing Data Warehouse for Wearable Device Data](https://github.com/zigzagktz/ETL-ExtractTransformLoad/tree/master/ETL%20on%20Wear%20Devices%20with%20(S3%20%2B%20postgres))  
 This projects represents a simple data warehousing process that can be helpful in developing the though process behind any big data-management project that involves the usage of cutting-edge technologies.
 
 
