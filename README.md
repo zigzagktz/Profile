@@ -11,7 +11,7 @@ This projects represents a simple data warehousing process that can be helpful i
 ### [Quantitative Marketing Analysis](https://github.com/zigzagktz/Quantitative-Marketing-Analysis)
 Implemented data analytics best practices to drive valuable insights from transactional data to drive best business strategies. 
 
-### [Lead Score Prediction and Cost-Benefit Analysis](https://github.com/zigzagktz/My-work/blob/master/Predictive%20Lead%20Scoring/Lead%20score%20and%20cost%20benefit%20analysis.ipynb) ([*Blog Post*](https://towardsdatascience.com/cost-benefit-analysis-by-predicting-lead-score-and-expected-value-fb2082eef50a)  )
+### [Lead Score Prediction and Cost-Benefit Analysis](https://github.com/zigzagktz/My-work/blob/master/Predictive%20Lead%20Scoring/Lead%20score%20and%20cost%20benefit%20analysis.ipynb) 
 Please check out my blog giving a detailed explanation of my findings. [Blog Post](https://towardsdatascience.com/cost-benefit-analysis-by-predicting-lead-score-and-expected-value-fb2082eef50a)
 
 
