@@ -2,11 +2,12 @@
 
 ## Extract Transform and Load (ETL)
 
-### [Pricing Data Warehouse for Wearable Devices (Star Schema, Postgres, AWS S3 )  ](https://github.com/zigzagktz/ETL-ExtractTransformLoad/tree/master/ETL%20on%20Wear%20Devices%20with%20(S3%20%2B%20postgres))  
+### [Pricing Data Warehouse (Star Schema, Postgres, AWS S3 )  ](https://github.com/zigzagktz/ETL-ExtractTransformLoad/tree/master/ETL%20on%20Wear%20Devices%20with%20(S3%20%2B%20postgres))  
 This projects represents a simple data warehousing process that can be helpful in developing the though process behind any big data-management project that involves the usage of cutting-edge technologies.
 
 ### [Real-Time Stock Exchange Data Storage (NoSQL, MongoDB) ](https://github.com/zigzagktz/ETL-ExtractTransformLoad/tree/master/ETL%20on%20Stock-Exchange%20with%20NoSQL)
-Wrote a python script that performs webscrapping and collect stock exchange data from web to stores it into NoSQL database (MongoDB) in real-time (updated every 1 hr). I hosted the notebook on databricks cloud service. 
+Wrote a python script that performs webscrapping and collect stock exchange data from web to stores it into NoSQL database (MongoDB) in real-time (updated every 1 hr). I hosted the notebook on databricks cloud service.   
+***Future scope** --> To develop an application that notify the user when stock drops too low or rises too high.* 
 
 
 ## Predictive Modeling
